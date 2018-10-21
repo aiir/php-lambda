@@ -1,0 +1,18 @@
+{
+  "name": "@aiir/php-lambda",
+  "version": "1.0.0",
+  "author": "Andy Buckingham <andy@aiir.com>",
+  "description": "Provides a Lambda handler function to execute PHP via a FastCGI child process.",
+  "main": "lib/handler.js",
+  "dependencies": {
+    "fastcgi-client": "0.0.1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@aiir.git.beanstalkapp.com:/aiir/php-lambda-proxy.git"
+  },
+  "scripts": {
+    "test": "node test/request.js"
+  }
+}

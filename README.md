@@ -73,4 +73,4 @@ It can take an options object, which can consist of any of the following propert
 
 ## Authors
 
-- Created by [@andybee](https://twitter.com/)
+- Created by [@andybee](https://twitter.com/@andybee)

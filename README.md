@@ -1,3 +1,5 @@
+**This project has been abandoned following the introduction of custom Lambda runtimes and layers, in favour of a [PHP runtime layer](https://github.com/aiir/php-lambda-layer)**
+
 # PHP Lambda
 
 Allows you to run PHP code within an AWS Lambda function, via Proxy Integration.
